@@ -1,5 +1,6 @@
 # guan-li
 
+ 演示地址 https://huajinbao.github.io/test/
 > A Vue.js project
 
 ## Build Setup
